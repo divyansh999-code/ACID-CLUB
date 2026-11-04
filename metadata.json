@@ -1,0 +1,8 @@
+{
+  "name": "Remix ACID CLUB Interactive Experience",
+  "description": "A high-performance, immersive techwear landing page featuring seamless boomerang video looping, parallax typography, and responsive commerce elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
